@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ucsc</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_campus">Map</string>
+    <string-array name="location_list">
+        <item>Oakes College%36.989019%-122.064638</item>
+        <item>Porter College%36.994373%-122.065223</item>
+        <item>Rachel Carlson College%36.991180%-122.064722</item>
+        <item>Kresge College%36.997222%-122.066799</item>
+        <item>Science Hill%36.999888%-122.062190</item>
+        <item>College Nine%37.001567%-122.057264</item>
+        <item>College Ten%37.000392%-122.058371</item>
+        <item>Merill College%36.999875%-122.053267</item>
+        <item>Crown College%36.999589%-122.054974</item>
+        <item>Stevenson College%36.997026%-122.051621</item>
+        <item>Cowell College%36.997108%-122.054278</item>
+    </string-array>
+</resources>
